@@ -1,0 +1,81 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:Visualizer Feed
+state: pause
+current: 31
+time: 98.216000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 10
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:A$AP Rocky/[2018] Testing/05 Praise the Lord (Da Shine) [feat. Skepta].mp3
+1:Big Sean/Singles/[2019] Overtime/Overtime.mp3
+2:DaBaby/[2019] KIRK/03 BOP.opus
+3:DaBaby/[2019] Baby On Baby/02 Suge.mp3
+4:DaBaby/[2019] Baby On Baby/03 Goin Baby.mp3
+5:DaBaby/[2018] Blank Blank/03 21.mp3
+6:Dave/[2019] Psychodrama/02 Streatham.mp3
+7:Denzel Curry/[2019] ZUU/06 SPEEDBOAT.mp3
+8:Denzel Curry/[2018] TA13OO/2-04 SIRENS l Z1RENZ (feat. J.I.D).mp3
+9:Denzel Curry/[2018] TA13OO/3-03 VENGEANCE l VENGEANCE (feat. JPEGMAFIA & ZillaKami).mp3
+10:J. Cole/[2019] Revenge of the Dreamers III/1. Under The Sun (Feat. J. Cole, Lute & DaBaby).mp3
+11:J. Cole/[2019] Revenge of the Dreamers III/16. MIDDLE CHILD.mp3
+12:J. Cole/[2019] Revenge of the Dreamers III/2. Down Bad (Feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy).mp3
+13:J.I.D/[2018] DiCaprio 2/04 Off Deez (feat. J. Cole).mp3
+14:J.I.D/[2018] DiCaprio 2/05 151 Rum.mp3
+15:J.I.D/[2018] DiCaprio 2/07 Workin Out.mp3
+16:Jaden Smith/[2018] The Sunset Tapes/02 A Calabasas Freestyle.mp3
+17:Joey Bada$$/[2017] All-Amerikkkan Bada$$/11 Legendary (feat. J. Cole).mp3
+18:Joey Bada$$/[2017] All-Amerikkkan Bada$$/07 Rockabye Baby (feat. ScHoolboy Q).mp3
+19:Joyner Lucas/[2020] ADHD/03 ISIS (feat. Logic).mp3
+20:Joyner Lucas/[2020] ADHD/17 Will.mp3
+21:Juice WRLD/Singles/[2019] Bandit/Bandit (feat. NBA Youngboy).mp3
+22:Juice WRLD/Singles/[2020] Righteous/Righteous.mp3
+23:Lil Baby/Singles/[2017] Freestyle/13 Freestyle.mp3
+24:Lil Baby/Singles/[2020] The Bigger Picture/The Bigger Picture.m4a
+25:Lil Baby & Gunna/[2018] Drip Harder/12 Drip Too Hard.mp3
+26:Lil Mosey/Singles/[2020] Blueberry Faygo/Blueberry Faygo.mp3
+27:Lil Tjay/[2019] True 2 Myself/01 One Take.mp3
+28:Lil Tjay/[2019] True 2 Myself/03 F.N.mp3
+29:Lil Tjay/[2019] True 2 Myself/10 Leaked.mp3
+30:Lil Tjay/[2019] True 2 Myself/11 Laneswitch.mp3
+31:Lil Tjay/[2019] True 2 Myself/12 Brothers.mp3
+32:Lil Uzi Vert/Singles/[2019] Sanguine Paradise/Sanguine Paradise.mp3
+33:Lil Uzi Vert/[2020] Eternal Atake/01 Baby Pluto.flac
+34:Lil Uzi Vert/[2020] Eternal Atake/08 Celebration Station.flac
+35:Lil Uzi Vert/[2020] Eternal Atake/09 Bigger Than Life.flac
+36:Lil Uzi Vert/[2020] Eternal Atake/10 Chrome Heart Tags.flac
+37:Lil Uzi Vert/[2020] Eternal Atake/16 P2.flac
+38:Lil Uzi Vert/[2020] Eternal Atake/18 That Way.flac
+39:Lil Uzi Vert/[2020] LUV vs The World 2/01 Myron.mp3
+40:Lil Uzi Vert/[2020] LUV vs The World 2/03 Bean (Kobe) [feat. Cheif Keef].mp3
+41:Lil Uzi Vert/[2020] LUV vs The World 2/06 Strawberry Peels (feat. Young Thug & Gunna).mp3
+42:Lil Uzi Vert/[2020] LUV vs The World 2/14 Leaders (feat. NAV).mp3
+43:NLE Choppa/[2019] Camelot/Camelot.mp3
+44:Polo G/[2019] Die A Legend/02 Dyin Breed.mp3
+45:Polo G/[2019] Die A Legend/03 Through Da Storm.mp3
+46:Polo G/[2019] Die A Legend/04 Effortless.mp3
+47:Polo G/[2019] Die A Legend/05 Pop Out (feat. Lil Tjay).mp3
+48:Polo G/[2019] Die A Legend/08 Finer Things.mp3
+49:Polo G/[2019] Die A Legend/11 Deep Wounds.mp3
+50:Polo G/[2020] The Goat/02. Heartless (feat. Mustard).mp3
+51:Polo G/[2020] The Goat/05. Go Stupid (feat. Stunna 4 Vegas, NLE Choppa & Mike WiLL Made-It).mp3
+52:Polo G/[2020] The Goat/06. 21.mp3
+53:Polo G/[2020] The Goat/07. 33.mp3
+54:Polo G/[2020] The Goat/11. Be Something (feat. Lil Baby).mp3
+55:Polo G/[2020] The Goat/16. Wishing For A Hero (feat. BJ The Chicago Kid).mp3
+56:Rich Brian/[2018] Amen/06 Glow Like Dat.mp3
+57:Rich Brian/[2018] Amen/02 Cold.mp3
+58:Stormzy/[2019] Heavy is the Head/16 Vossi Bop.mp3
+59:Stormzy/[2019] Heavy is the Head/03 Crown.mp3
+60:Stormzy/[2019] Heavy is the Head/06 Handsome.mp3
+61:YBN Cordae/[2019] The Lost Boy/02 Have Mercy.mp3
+62:YBN Cordae/[2019] The Lost Boy/04 Bad Idea (feat. Chance the Rapper.mp3
+63:YBN Cordae/[2019] The Lost Boy/06 RNP (feat. Anderson .Paak).mp3
+64:YBN Cordae/[2019] The Lost Boy/07 Broke As Fuck.mp3
+65:YBN Cordae/Singles/[2019] Locationships/Locationships.mp3
+playlist_end
